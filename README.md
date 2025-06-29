@@ -17,7 +17,7 @@ This project is an interactive Power BI dashboard analyzing apps on the Google P
 |-----------|-------------|
 | Playstore_App_analysis.pbix | Final Power BI dashboard |
 | Playstore App Analysis screenshot.png | Dashboard preview image |
-| playstore_data_cleaning-checkpoint.ipynb | Jupyter notebook used to clean raw data |
+| playstore_data_cleaning.ipynb | Jupyter notebook used to clean raw data |
 | README.md | This file describing the project |
 ## Tools & Technologies Used
 -  Python (Pandas, Regex)
